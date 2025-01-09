@@ -1,3 +1,7 @@
-# smxApiTest
+# StepManiaX Player Search
 
-Testing out https://github.com/DesktopMan/smx-api-docs
+This project allows you to search for a StepManiaX player and view their top 10 scores.
+
+## Screenshot
+
+![StepManiaX Player Search](public/PlayerSearch.png)
