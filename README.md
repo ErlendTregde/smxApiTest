@@ -4,4 +4,4 @@ This project allows you to search for a StepManiaX player and view their top 10 
 
 ## Screenshot
 
-![StepManiaX Player Search](public/PlayerSearch.png)
+![StepManiaX Player Search](public/PlayerSearch.PNG)
